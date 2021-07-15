@@ -1,5 +1,5 @@
 # Blog-website
-## A Personal Blog Web Application made in Nodejs using Express framework and EJS templates which is connected to mongoDB database with built in feature to compose new blogs and add it to the home page.
+## A Personal Blog Web Application made in Nodejs using Express framework and EJS templates which is connected to mongoDB database with built in features to compose new blogs and add it to the home page.
 
 
 # Screenshot 📸
